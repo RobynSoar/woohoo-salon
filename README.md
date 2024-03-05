@@ -4,11 +4,11 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 <!-- Insert href to deployed site -->
 
 <!-- Screenshot of site responsivity mockup from https://ui.dev/amiresponsive -->
-![Mockup]
+<!-- ![Mockup] -->
 
 ## Table of Contents
 
-##Features
+## Features
 
 ### Site Wide
 
@@ -54,13 +54,14 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 ### Technologies Used
 <!-- Add badges for all available technologies used -->
 - HTML 
-    - 
+
 - CSS
-    - 
+
 - GitHub
-    - 
+
 - Git
-    - 
+
+- Favicon.io
 
 ## Testing
 
@@ -99,6 +100,9 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 - [Pexels](https://www.pexels.com/)
     - Free stock images from Pexels was used site wide.
+
+### Favicon Image
+- [Icons8](https://icons8.com/)
 
 ## Author
 
