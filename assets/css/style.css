@@ -18,6 +18,10 @@ body {
     font-family: "Exo", sans-serif;
 }
 
+h1 {
+    font-family: "Teko", sans-serif;
+}
+
 /* Header */
 header {
     background-color: lightcoral;
