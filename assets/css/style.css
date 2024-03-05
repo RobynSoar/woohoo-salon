@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #401e17;
+    font-family: "Exo", sans-serif;
 }
 
 /* Header */
