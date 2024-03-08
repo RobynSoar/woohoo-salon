@@ -96,6 +96,9 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 - [Writing a High Quality README! - Blog](https://dev.to/coderarchive/writing-a-high-quality-readme-1k3j)
     - Woohoo Salon's README.md layout and contents was also inspired by this README to confirm I had the correct content for a good quality README.
 
+- [Love Running - Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+    - Inpiration for sections of basic code.
+
 ### Content
 
 - [Pexels](https://www.pexels.com/)
