@@ -38,6 +38,20 @@ header a {
     color: inherit;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #401e17;
+}
+
 /* Main content */
 main {
     background-color: lightblue;
