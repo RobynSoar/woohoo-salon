@@ -24,7 +24,11 @@ h1 {
 
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: rgba(244, 215, 218, .5);
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 /* Main content */
