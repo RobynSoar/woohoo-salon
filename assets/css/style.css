@@ -89,3 +89,31 @@ main {
 footer {
     background-color: orange;
 }
+
+/* Media query - Tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        background-color: rgba(244, 215, 218, 0);
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li:not(:last-child) {
+        border-right: 1px solid #401e17;
+    }
+
+    #menu > li > a {
+        padding: 7px 15px;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+}
