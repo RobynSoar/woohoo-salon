@@ -52,6 +52,16 @@ header a {
     border-bottom: 1px solid #401e17;
 }
 
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: rgba(244, 215, 218, .5);
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+}
+
 /* Main content */
 main {
     background-color: lightblue;
