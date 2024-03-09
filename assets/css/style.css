@@ -150,3 +150,13 @@ footer {
         line-height: 75px;
     }
 }
+
+/* Media query - Laptops and desktop (992px and up) */
+@media screen and (min-width: 992px) {
+
+    /* Footer */
+    #social-networks {
+        justify-content: center;
+        gap: 30px;
+    }
+}
