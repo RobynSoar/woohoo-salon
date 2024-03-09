@@ -81,9 +81,16 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: #f4d7da;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+}
+
+/* Hero section */
+#hero {
+    height: 700px;
+    width: 100%;
+    background: url(../images/hero-image.jpg) no-repeat center center/cover;
 }
 
 /* Footer */
