@@ -8,6 +8,29 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 ## Table of Contents
 
+- <a name="features">Features</a>
+    - <a name="sitewide">Site Wide</a>
+    - <a name="landing-page">Landing Page</a>
+    - <a name="services-page">Services Page</a>
+    - <a name="gallery-page">Gallery Page</a>
+    - <a name="form-page">Form Page</a>
+    - <a name="existing-features">Existing Features</a>
+    - <a name="features-left-to-impliment">Features Left to Impliment</a>
+- <a name="design">Design</a>
+    - <a name="wireframes">Wireframes</a>
+    - <a name="technologies-used">Technologies Used</a>
+- <a name="testing">Testing</a>
+    - <a name="responsiveness">Responsiveness</a>
+    - <a name="accessibility">Accessibility</a>
+    - <a name="lighthouse-testing">Lighthouse Testing</a>
+    - <a name="functional-testing">Fuctional Testing</a>
+    - <a name="validator-testing">Validator Testing</a>
+- <a name="deployment">Deployment</a>
+    - <a name="version-control">Version Control</a>
+- <a name="credits">Credits</a>
+    - <a name="media">Media</a>
+- <a name="author">Author</a>
+
 ## Features
 
 ### Site Wide
@@ -102,13 +125,13 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 - [Pee-Aye Creative](https://www.youtube.com/watch?v=NsUZZ7gHIuA)
     - Divided navbar styling was created with inspiration from this video.
 
-### Content
+### Media
 
 - [Pexels](https://www.pexels.com/)
     - Free stock images from Pexels was used site wide.
 
-### Favicon Image
 - [Icons8](https://icons8.com/)
+    - Favicon image
 
 ## Author
 
