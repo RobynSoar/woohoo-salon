@@ -98,7 +98,7 @@ footer {
         display: block;
         position: relative;
         width: fit-content;
-        padding-right: 1rem;
+        padding-right: .1rem;
         background-color: rgba(244, 215, 218, 0);
     }
 
@@ -111,7 +111,7 @@ footer {
     }
 
     #menu > li > a {
-        padding: 7px 15px;
+        padding: 7px 12px 0;
     }
     .nav-toggle-label {
         display: none;
