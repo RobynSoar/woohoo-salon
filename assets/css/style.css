@@ -91,7 +91,28 @@ main {
     height: 700px;
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center/cover;
+    position: relative;
 }
+
+/* Hero-button commented out till I can fix horizonal centering */
+
+/* #hero-button {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    bottom: 100px;
+}
+
+.hero-book-now {
+    background-color: #ea6676;
+    color: #401e17;
+    font-size: 110%;
+    font-weight: bold;
+    padding: 5px 20px;
+    box-shadow: 0 3px 3px #3a3a3a;
+    border: none;
+    border-radius: 5px;
+} */
 
 /* Footer */
 footer {
