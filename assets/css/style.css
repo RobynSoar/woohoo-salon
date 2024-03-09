@@ -154,6 +154,12 @@ footer {
 /* Media query - Laptops and desktop (992px and up) */
 @media screen and (min-width: 992px) {
 
+    /* Header */
+
+    #menu a:hover {
+        border-bottom: 1px solid #401e17;
+    }
+
     /* Footer */
     #social-networks {
         justify-content: center;
