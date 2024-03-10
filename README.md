@@ -86,6 +86,12 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 - Favicon.io
 
+- [TinyPNG](https://tinypng.com/)
+    - Used TinyPNG to compress image assets to aid in the website running quicker.
+
+- [Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp)
+    - Used Pixelied to convert file types of image assets from jpg to webp to aid in the website running quicker.
+
 ## Testing
 
 ### Responsiveness
