@@ -114,6 +114,13 @@ main {
     border-radius: 5px;
 } */
 
+/* Gallery Page */
+
+#photos img {
+    width: 100%;
+    border-radius: 10px;
+}
+
 /* Footer */
 footer {
     background-color: #f4d7da;
