@@ -145,6 +145,10 @@ footer {
     text-align: center;
 }
 
+#contact-details a {
+    color: #401e17;
+}
+
 /* Media query - Tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
