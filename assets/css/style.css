@@ -115,6 +115,11 @@ button a {
     color:#252525;
 }
 
+div button:hover {
+    background-color: #ea6676;
+    box-shadow: none;
+}
+
 /* Gallery Page */
 
 #photos img {
@@ -139,6 +144,10 @@ footer {
     font-size: 150%;
     padding: 5%;
     color: #252525;
+}
+
+#social-networks i:hover {
+    color: #ea6676;
 }
 
 #contact-details {
@@ -203,6 +212,6 @@ footer {
     /* Footer */
     #social-networks {
         justify-content: center;
-        gap: 30px;
+        gap: 110px;
     }
 }
