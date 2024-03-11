@@ -131,6 +131,9 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 - [Pee-Aye Creative](https://www.youtube.com/watch?v=NsUZZ7gHIuA)
     - Divided navbar styling was created with inspiration from this video.
 
+- [Medium - Web Accessibility Tip](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye)
+    - Code used to fix lack of accessbility with screen readers on mobile devices that show the dropdown menu.
+
 ### Media
 
 - [Pexels](https://www.pexels.com/)
