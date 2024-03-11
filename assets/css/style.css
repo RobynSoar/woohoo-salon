@@ -26,7 +26,7 @@ h1 {
 
 /* Header */
 header {
-    background-color: rgba(244, 215, 218, .5);
+    background-color: #f4d7da;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -73,7 +73,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: rgba(244, 215, 218, .5);
+    background-color: #f4d7da;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -99,6 +99,7 @@ main {
     background-color: #f4d7da;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 46px;
 }
 
 /* Hero section */
@@ -219,6 +220,13 @@ footer {
     #logo {
         font-size: 250%;
         line-height: 75px;
+    }
+
+    /* Main Content */
+
+    main {
+        /* Push main content down to accommodate larger heading */
+        margin-top: 75px;
     }
 }
 
