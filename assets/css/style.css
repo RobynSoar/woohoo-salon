@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #401e17;
+    color: #252525;
     font-family: "Exo", sans-serif;
 }
 
@@ -52,7 +52,7 @@ header a {
 }
 
 .active {
-    border-bottom: 1px solid #401e17;
+    border-bottom: 1px solid #252525;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -96,22 +96,23 @@ main {
     justify-content: center;
 }
 
-/* Hero-button commented out till I can fix horizonal centering */
-
 #hero-button {
     position: absolute;
     bottom: 100px;
 }
 
 .hero-book-now {
-    background-color: #ea6676;
-    color: #401e17;
+    background-color: #f4d7da;
     font-size: 110%;
     font-weight: bold;
     padding: 5px 20px;
     box-shadow: 0 3px 3px #3a3a3a;
     border: none;
     border-radius: 5px;
+}
+
+button a {
+    color:#252525;
 }
 
 /* Gallery Page */
@@ -137,7 +138,7 @@ footer {
 #social-networks i {
     font-size: 150%;
     padding: 5%;
-    color: #401e17;
+    color: #252525;
 }
 
 #contact-details {
@@ -153,7 +154,7 @@ footer {
 }
 
 #contact-details a {
-    color: #401e17;
+    color: #252525;
 }
 
 /* Media query - Tablets and larger (768px and up) */
@@ -173,7 +174,7 @@ footer {
     }
 
     #menu>li:not(:last-child) {
-        border-right: 1px solid #401e17;
+        border-right: 1px solid #252525;
     }
 
     #menu>li>a {
@@ -196,7 +197,7 @@ footer {
     /* Header */
 
     #menu a:hover {
-        border-bottom: 1px solid #401e17;
+        border-bottom: 1px solid #252525;
     }
 
     /* Footer */
