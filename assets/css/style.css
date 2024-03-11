@@ -186,6 +186,7 @@ footer {
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
+        column-gap: 0;
     }
 }
 
@@ -228,6 +229,13 @@ footer {
         /* Push main content down to accommodate larger heading */
         margin-top: 75px;
     }
+
+    /* Gallery */
+
+    #photos {
+        column-count: 3;
+        column-gap: 0;
+    }
 }
 
 /* Media query - Laptops and desktop (992px and up) */
@@ -237,6 +245,14 @@ footer {
 
     #menu a:hover {
         border-bottom: 1px solid #252525;
+    }
+
+    /* Main Content */
+
+    /* Gallery */
+    
+    #photos {
+        column-count: 4;
     }
 
     /* Footer */
