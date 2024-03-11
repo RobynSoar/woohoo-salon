@@ -92,14 +92,14 @@ main {
     width: 100%;
     background: url(../images/hero-image.webp) no-repeat center center/cover;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 /* Hero-button commented out till I can fix horizonal centering */
 
-/* #hero-button {
+#hero-button {
     position: absolute;
-    display: flex;
-    justify-content: center;
     bottom: 100px;
 }
 
@@ -112,7 +112,7 @@ main {
     box-shadow: 0 3px 3px #3a3a3a;
     border: none;
     border-radius: 5px;
-} */
+}
 
 /* Gallery Page */
 
