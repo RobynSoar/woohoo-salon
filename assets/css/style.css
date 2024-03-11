@@ -41,6 +41,7 @@ header a {
     color: inherit;
 }
 
+/* Hidden span for accessibilty with screen readers for dropdown menu */
 .sr-only {
     border: 0; 
     clip: rect(0 0 0 0); 
@@ -178,6 +179,13 @@ footer {
 
 #contact-details a {
     color: #252525;
+}
+
+/* Media query - Large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+    }
 }
 
 /* Media query - Tablets and larger (768px and up) */
