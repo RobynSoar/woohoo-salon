@@ -43,17 +43,17 @@ header a {
 
 /* Hidden span for accessibilty with screen readers for dropdown menu */
 .sr-only {
-    border: 0; 
-    clip: rect(0 0 0 0); 
-    -webkit-clip-path: polygon(0px 0px, 0px 0px, 0px 0px); 
-    clip-path: polygon(0px 0px, 0px 0px, 0px 0px); 
-    height: 1px; 
-    margin: -1px; 
-    overflow: hidden; 
-    padding: 0; 
-    position: absolute; 
-    width: 1px; 
-    white-space: nowrap; 
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: polygon(0px 0px, 0px 0px, 0px 0px);
+    clip-path: polygon(0px 0px, 0px 0px, 0px 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
 }
 
 #menu {
@@ -100,6 +100,9 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero section */
@@ -128,7 +131,7 @@ main {
 }
 
 button a {
-    color:#252525;
+    color: #252525;
 }
 
 div button:hover {
@@ -137,13 +140,61 @@ div button:hover {
 }
 
 /* Gallery Page */
-
 #photos img {
     width: 100%;
     border-radius: 10px;
 }
 
 /* Book Now Page */
+#booknow {
+    background-image: url("../images/booknow-polish.webp");
+    background-size: cover;
+    background-position: 53%;
+    padding: 20px 10% 20px 10%;
+    flex-grow: 1;
+}
+
+#booknow-form {
+    color: #252525;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 30px;
+}
+
+#booknow-form h2,
+h3 {
+    color: #252525;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    color: #252525;
+    background-color: transparent;
+    width: 100%;
+    height: 30px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #252525;
+    border-radius: 3px;
+    padding: 0 5px;
+}
+
+#message {
+    height: 120px;
+}
+
+.radio-buttons div {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.send-button {
+    margin-top: 20px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: transparent;
+    color: #252525;
+    border: 2px solid #252525;
+    border-radius: 3px;
+}
 
 /* Footer */
 footer {
@@ -252,7 +303,7 @@ footer {
     /* Main Content */
 
     /* Gallery */
-    
+
     #photos {
         column-count: 4;
     }
