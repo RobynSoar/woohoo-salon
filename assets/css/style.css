@@ -196,6 +196,11 @@ h3 {
     border-radius: 3px;
 }
 
+iframe {
+    height: 300px;
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #f4d7da;
