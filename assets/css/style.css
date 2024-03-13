@@ -196,9 +196,29 @@ h3 {
     border-radius: 3px;
 }
 
-iframe {
-    height: 300px;
-    width: 100%;
+#contact-us {
+    color: #252525;
+    background-color: #f4d7da;
+    padding: 30px;
+}
+
+#salon-hours {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#salon-hours h2 {
+    color: #252525;
+    margin-bottom: 20px;
+}
+
+#salon-hours li {
+    list-style-type: none;
+}
+
+#woohoo-contact div {
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 /* Footer */
