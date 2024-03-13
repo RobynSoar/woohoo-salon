@@ -253,7 +253,7 @@ footer {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: 5px 0 30px;
+    margin: 5px 10px 30px;
 }
 
 #contact-details p {
