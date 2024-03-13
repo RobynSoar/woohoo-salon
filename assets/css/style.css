@@ -314,6 +314,16 @@ footer {
         column-count: 3;
         column-gap: 0;
     }
+
+    /* Book Now page */
+
+    .text-input:hover {
+        border-color: #ea6676;
+    }
+
+    .send-button:hover {
+        background-color: #ea6676;
+    }
 }
 
 /* Media query - Laptops and desktop (992px and up) */
