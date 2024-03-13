@@ -24,6 +24,10 @@ h1 {
     letter-spacing: 1px;
 }
 
+a {
+    color: #252525;
+}
+
 /* Header */
 header {
     background-color: #f4d7da;
@@ -254,10 +258,6 @@ footer {
 
 #contact-details p {
     text-align: center;
-}
-
-#contact-details a {
-    color: #252525;
 }
 
 /* Media query - Large or landscape phones (576px and up) */
