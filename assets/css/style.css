@@ -320,6 +320,10 @@ li em {
     margin-bottom: 15px;
 }
 
+fieldset {
+    border: none;
+}
+
 .send-button {
     margin-top: 20px;
     padding: 15px 32px;
