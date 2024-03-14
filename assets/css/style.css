@@ -364,6 +364,32 @@ li em {
     border-radius: 5px;
 }
 
+/* 404 Page */
+#wrap div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 60px 0;
+    padding: 20px 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 5px;
+}
+
+#contents {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#back-home a {
+    color: #252525;
+}
+
+#back-home input:hover {
+    background-color: #ea6676;
+    box-shadow: none;
+}
+
 /* Footer */
 footer {
     background-color: #f4d7da;
