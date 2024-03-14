@@ -336,6 +336,11 @@ footer {
         margin-top: 74px;
     }
 
+    /* Services Page */
+    #services-image {
+        font-size: 160%;
+    }
+
     /* Gallery */
 
     #photos {
@@ -358,15 +363,18 @@ footer {
 @media screen and (min-width: 992px) {
 
     /* Header */
-
     #menu a:hover {
         border-bottom: 1px solid #252525;
     }
 
     /* Main Content */
 
-    /* Gallery */
+    /* Services Page */
+    #services-image {
+        height: 450px;
+    }
 
+    /* Gallery */
     #photos {
         column-count: 4;
     }
