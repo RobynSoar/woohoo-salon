@@ -143,6 +143,18 @@ div button:hover {
     box-shadow: none;
 }
 
+/* Services Page */
+#services-image {
+    height: 200px;
+    width: 100%;
+    background: url(../images/services-page-image.webp) no-repeat center center/cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 20px 10% 20px 10%;
+    flex-grow: 1;
+}
+
 /* Gallery Page */
 #photos img {
     width: 100%;
