@@ -194,6 +194,21 @@ li em {
     font-size: smaller;
 }
 
+#menu-image {
+    display: flex;
+    justify-content: center;
+}
+
+#menu-cover-bg {
+    background: url(../images/servicemenu-paintdrip.webp) no-repeat center center/cover;
+    height: 90vw;
+    width: 60vw;
+    margin-bottom: 20px;
+    max-width: 320px;
+    max-height: 480px;
+    border-radius: 5px;
+}
+
 /* Gallery Page */
 #photos img {
     width: 100%;
