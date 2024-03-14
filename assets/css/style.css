@@ -144,6 +144,16 @@ div button:hover {
 }
 
 /* About us section */
+
+#why-nail-care,
+#about-us, #testimonials {
+    margin: 20px 20px;
+    padding: 10px 20px;
+    border: 1px solid #252525;
+    box-shadow: 3px 3px 5px;
+    border-radius: 5px;
+}
+
 #nail-care-image, #nail-treatment-image {
     display: flex;
     justify-content: center;
@@ -154,7 +164,7 @@ div button:hover {
     background: url(../images/nail-care.webp) no-repeat center center/cover;
     height: 90vw;
     width: 60vw;
-    margin-bottom: 20px;
+    margin: 20px 20px;
     max-width: 320px;
     max-height: 480px;
     border-radius: 5px;
@@ -164,10 +174,26 @@ div button:hover {
     background: url(../images/nail-treatment.webp) no-repeat center center/cover;
     height: 90vw;
     width: 60vw;
-    margin-bottom: 20px;
+    margin: 20px 20px;
     max-width: 320px;
     max-height: 480px;
     border-radius: 5px;
+}
+
+#testimonials div {
+    border: 1px ridge #fff6f6;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+}
+
+#about-salon h3 {
+    text-align: center;
+}
+
+#salon-reasons p {
+    padding-bottom: 20px;
 }
 
 /* Services Page */
@@ -207,12 +233,12 @@ div button:hover {
     border-radius: 5px;
 }
 
-#content-wrapper h3, h4 {
+.content-wrapper h3, h4 {
     padding: 20px 0 20px 0;
     font-size: 180%;
 }
 
-#content-wrapper li {
+.content-wrapper li {
     list-style-type: none;
     padding-bottom: 20px;
 }
@@ -258,8 +284,8 @@ li em {
     padding: 30px;
 }
 
-#booknow-form h2,
-h3 {
+#booknow-form > h2, #booknow-form
+> h3 {
     color: #252525;
     margin-bottom: 20px;
 }
