@@ -355,6 +355,15 @@ li em {
     text-align: center;
 }
 
+/* Thank you Page */
+#thankyou-div {
+    text-align: center;
+    margin: 60px 0;
+    padding: 20px 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 5px;
+}
+
 /* Footer */
 footer {
     background-color: #f4d7da;
