@@ -145,6 +145,11 @@ div button:hover {
 
 /* About us section */
 
+#about-salon h3 {
+    padding: 20px 0 20px 0;
+    font-size: 180%;
+}
+
 #why-nail-care,
 #about-us, #testimonials {
     margin: 20px 20px;
@@ -233,12 +238,12 @@ div button:hover {
     border-radius: 5px;
 }
 
-.content-wrapper h3, h4 {
+#content-wrapper h3, h4 {
     padding: 20px 0 20px 0;
     font-size: 180%;
 }
 
-.content-wrapper li {
+#content-wrapper li {
     list-style-type: none;
     padding-bottom: 20px;
 }
