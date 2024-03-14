@@ -124,7 +124,7 @@ main {
     bottom: 50px;
 }
 
-.hero-book-now {
+.hero-book-now, .back-home-button {
     background-color: #f4d7da;
     font-size: 110%;
     font-weight: bold;
@@ -365,10 +365,11 @@ li em {
 }
 
 /* 404 Page */
-#wrap div {
+#wrap > div {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     text-align: center;
     margin: 60px 0;
     padding: 20px 10px;
@@ -376,18 +377,9 @@ li em {
     border-radius: 5px;
 }
 
-#contents {
+#contents p {
     text-align: center;
     padding-bottom: 20px;
-}
-
-#back-home a {
-    color: #252525;
-}
-
-#back-home input:hover {
-    background-color: #ea6676;
-    box-shadow: none;
 }
 
 /* Footer */
