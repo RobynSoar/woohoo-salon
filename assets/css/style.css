@@ -145,14 +145,30 @@ div button:hover {
 
 /* Services Page */
 #services-image {
-    height: 200px;
+    height: 300px;
     width: 100%;
     background: url(../images/services-page-image.webp) no-repeat center center/cover;
     position: relative;
     display: flex;
     justify-content: center;
+    background-position-y: 54%;
     padding: 20px 10% 20px 10%;
     flex-grow: 1;
+}
+
+#overlay-text {
+    position: absolute;
+    top: 37.5%;
+    left: 20%;
+    background-color: rgba(255, 255, 255, 0.6);
+    color: #252525;
+    width: 60%;
+    text-align: center;
+    padding: 20px 30px;
+    font-size: 110%;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
 }
 
 /* Gallery Page */
