@@ -152,6 +152,7 @@ div button:hover {
     border: 1px solid #252525;
     box-shadow: 3px 3px 5px;
     border-radius: 5px;
+    text-align: center;
 }
 
 #nail-care-image, #nail-treatment-image {
@@ -165,8 +166,8 @@ div button:hover {
     height: 90vw;
     width: 60vw;
     margin: 20px 20px;
-    max-width: 320px;
-    max-height: 480px;
+    max-width: 240px;
+    max-height: 360px;
     border-radius: 5px;
 }
 
@@ -175,15 +176,14 @@ div button:hover {
     height: 90vw;
     width: 60vw;
     margin: 20px 20px;
-    max-width: 320px;
-    max-height: 480px;
+    max-width: 240px;
+    max-height: 360px;
     border-radius: 5px;
 }
 
 #testimonials div {
     border: 1px ridge #fff6f6;
     border-radius: 5px;
-    text-align: center;
     padding: 10px 10px;
     margin-bottom: 20px;
 }
@@ -428,6 +428,21 @@ footer {
         margin-top: 74px;
     }
 
+    #care-div, #treatment-div {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #about-us {
+        order: 1;
+    }
+
+    #nail-treatment-image {
+        order: 0;
+    }
+
     /* Services Page */
     #services-image {
         font-size: 160%;
@@ -459,8 +474,6 @@ footer {
         border-bottom: 1px solid #252525;
     }
 
-    /* Main Content */
-
     /* Services Page */
     #services-image {
         height: 450px;
@@ -490,5 +503,41 @@ footer {
     #social-networks {
         justify-content: center;
         gap: 110px;
+    }
+}
+
+/* Media query - Desktop and larger (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* Main Content */
+
+    /* Landing Page */
+    #salon-reasons {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #care-div, #treatment-div {
+        width: 50%;
+    }
+
+    #why-nail-care {
+        order: 1;
+        align-self: start;
+    }
+
+    #about-us {
+        order: 2;
+        align-self: end;
+    }
+
+    #nail-care-image {
+        order: 0;
+    }
+
+    #nail-treatment-image {
+        order: 3;
     }
 }
