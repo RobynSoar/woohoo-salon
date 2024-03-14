@@ -171,6 +171,29 @@ div button:hover {
     border-radius: 3px;
 }
 
+#manicure-menu,
+#pedicure-menu {
+    margin: 20px 20px;
+    padding: 10px 20px;
+    border: 1px solid #252525;
+    box-shadow: 3px 3px 5px;
+    border-radius: 5px;
+}
+
+#content-wrapper h3, h4 {
+    padding: 20px 0 20px 0;
+    font-size: 180%;
+}
+
+#content-wrapper li {
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+li em {
+    font-size: smaller;
+}
+
 /* Gallery Page */
 #photos img {
     width: 100%;
