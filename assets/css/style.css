@@ -151,7 +151,8 @@ div button:hover {
 }
 
 #why-nail-care,
-#about-us, #testimonials {
+#about-us,
+#testimonials {
     margin: 20px 20px;
     padding: 10px 20px;
     border: 1px solid #252525;
@@ -160,7 +161,8 @@ div button:hover {
     text-align: center;
 }
 
-#nail-care-image, #nail-treatment-image {
+#nail-care-image,
+#nail-treatment-image {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -186,7 +188,7 @@ div button:hover {
     border-radius: 5px;
 }
 
-#testimonials div {
+#testimonials-div div {
     border: 1px ridge #fff6f6;
     border-radius: 5px;
     padding: 10px 10px;
@@ -238,7 +240,8 @@ div button:hover {
     border-radius: 5px;
 }
 
-#content-wrapper h3, h4 {
+#content-wrapper h3,
+h4 {
     padding: 20px 0 20px 0;
     font-size: 180%;
 }
@@ -289,8 +292,8 @@ li em {
     padding: 30px;
 }
 
-#booknow-form > h2, #booknow-form
-> h3 {
+#booknow-form>h2,
+#booknow-form>h3 {
     color: #252525;
     margin-bottom: 20px;
 }
@@ -433,7 +436,8 @@ footer {
         margin-top: 74px;
     }
 
-    #care-div, #treatment-div {
+    #care-div,
+    #treatment-div {
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -478,7 +482,7 @@ footer {
     #menu a:hover {
         border-bottom: 1px solid #252525;
     }
-
+    
     /* Services Page */
     #services-image {
         height: 450px;
@@ -524,7 +528,8 @@ footer {
         align-items: center;
     }
 
-    #care-div, #treatment-div {
+    #care-div,
+    #treatment-div {
         width: 50%;
     }
 
