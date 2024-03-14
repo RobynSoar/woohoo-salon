@@ -197,6 +197,7 @@ li em {
 #menu-image {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #menu-cover-bg {
@@ -410,6 +411,21 @@ footer {
     /* Services Page */
     #services-image {
         height: 450px;
+    }
+
+    #content-wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex: 1;
+    }
+
+    #manicure-menu {
+        order: 0;
+    }
+
+    #pedicure-menu {
+        order: 1;
     }
 
     /* Gallery */
