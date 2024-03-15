@@ -274,6 +274,13 @@ li em {
 }
 
 /* Gallery Page */
+
+#gallery-heading {
+    padding: 20px 0 20px 0;
+    font-size: 180%;
+    text-align: center;
+}
+
 #photos img {
     width: 100%;
     height: auto;
