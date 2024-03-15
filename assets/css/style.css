@@ -134,11 +134,7 @@ main {
     border-radius: 5px;
 }
 
-/* button a {
-    color: #252525;
-} */
-
-.hero-book-now input:hover {
+#hero-button input:hover {
     background-color: #ea6676;
     box-shadow: none;
 }
@@ -390,7 +386,7 @@ iframe {
 #thankyou-div h2 {
     font-size: 180%;
     font-weight: bold;
-    padding-bottom: 20px;
+    padding-bottom: 20px
 }
 
 /* 404 Page */
