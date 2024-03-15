@@ -52,8 +52,10 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 ![Footer feature](documentation/features/footer-content.png)
 
 - Favicon
+    - The site wite favicon show an easily recognisable nail polish bottle, in a colour matching the colour palette of the Website.
+    - This provides an image in the tabs header to allow the user to easily identify the Website if they have multiple websites open at once.
 
-<!-- Insert Favicon image -->
+![Favicon feature](documentation/features/favicon-title.png)
 
 ### Landing Page
 
