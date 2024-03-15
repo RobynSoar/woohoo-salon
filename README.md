@@ -1,10 +1,8 @@
 # Woohoo Salon
 
-Woohoo Salon is a website aimed at the 16+ audience looking to have high quality nail services. This website allows users to gather insight into the nail salon business and the services they provide. With information about the salon itself, the services they provide with pricing, and a gallery of previous finished services to convince the user to trust in the quality and professionalism of the Woohoo Salon business. View the live site [here] 
-<!-- Insert href to deployed site -->
+Woohoo Salon is a website aimed at the 16+ audience looking to have high quality nail services. This website allows users to gather insight into the nail salon business and the services they provide. With information about the salon itself, the services they provide with pricing, a gallery of previous finished services to convince the user to trust in the quality and professionalism of the Woohoo Salon business, and lastly a contact form to communicate with the staff at Woohoo Salon for any queries, including booking appointments. View the live site [here](https://robynsoar.github.io/woohoo-salon/) 
 
-<!-- Screenshot of site responsivity mockup from https://ui.dev/amiresponsive -->
-<!-- ![Mockup] -->
+![Woohoo Salon website responsivity across a variety of devices](documentation/am-i-responsive.png)
 
 ## Table of Contents
 
@@ -68,6 +66,8 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 ### Features Left to Implement 
 
+<a name="table-of-contents">Return to Table of Contents</a>
+
 ## Design
 
 ### Wireframes
@@ -75,22 +75,44 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 <!-- Insert Wireframe images/drawings -->
 
 ### Technologies Used
-<!-- Add badges for all available technologies used -->
-- HTML 
+
+- HTML
+    - The main structure of the Website was developed using HTML as the main language.
 
 - CSS
+    - The Website was styles using custom CSS in an external file.
 
 - GitHub
+    - Source code is hosted on GitHub and deployed using Git Pages.
 
 - Git
+    - Used for development of the Website as well as commit and pushing code throughout.
 
-- Favicon.io
+- [Favicon.io](https://favicon.io/favicon-converter/)
+    - Favicon files were created with this favicon converter.
+
+- [FontAwesome](https://fontawesome.com/)
+    - Icons were used for social media links in the footer and throughout the sites headings.
 
 - [TinyPNG](https://tinypng.com/)
     - Used TinyPNG to compress image assets to aid in the website running quicker.
 
 - [Pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp)
     - Used Pixelied to convert file types of image assets from jpg to webp to aid in the website running quicker.
+
+- Procreate
+    - A digital illustration app was used to illustrate the wireframes.
+
+- [Am I Reponsive](https://ui.dev/amiresponsive)
+    - Used to show the Website's responsivity across a variety of devices.
+
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+    - Used to check the colour contrast of the Website for accessibility.
+
+- [Google Fonts](https://fonts.google.com/)
+    - Used to import fonts used throughout the Website.
+
+<a name="table-of-contents">Return to Table of Contents</a>
 
 ## Testing
 
@@ -114,9 +136,13 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 <!-- ### Unfixed Bugs -->
 
+<a name="table-of-contents">Return to Table of Contents</a>
+
 ## Deployment
 
 ### Version Control
+
+<a name="table-of-contents">Return to Table of Contents</a>
 
 ## Credits
 
@@ -147,6 +173,8 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 - [Icons8](https://icons8.com/)
     - Favicon image
+
+<a name="table-of-contents">Return to Table of Contents</a>
 
 ## Author
 
