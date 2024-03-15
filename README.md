@@ -131,8 +131,14 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 - [Pee-Aye Creative](https://www.youtube.com/watch?v=NsUZZ7gHIuA)
     - Divided navbar styling was created with inspiration from this video.
 
+- [HTML Dog](https://www.htmldog.com/techniques/404/)
+    - This walkthrough was used to aid in creation of the 404 Error page.
+
 - [Medium - Web Accessibility Tip](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye)
     - Code used to fix lack of accessbility with screen readers on mobile devices that show the dropdown menu.
+
+- [web.dev](https://web.dev/articles/optimize-lcp?utm_source=lighthouse&utm_medium=lr#optimize_when_the_resource_is_discovered)
+    - Code used to preload the LCP images with high fetchpriority so they load with the stylesheet. Aiding in better site performance.
 
 ### Media
 
