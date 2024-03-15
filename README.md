@@ -31,20 +31,25 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 ## Features
 
+The Website is made up of 6 pages, a Home page, Services page, Gallery page, Book Now page, a thank you page upon successful completion of the contact form, and a 404 error page incase of a broken link, of which will not be seen by the user unless an error occurs.
+
 ### Site Wide
 
 - Logo
     - Contains a link to the Home page from any other page.
 
-<!-- Insert Logo image -->
+![Logo feature](documentation/features/woohoo-logo.png)
 
 - Navigation Menu
+    - Contains links to the Home, Services, Gallery and Book Now pages and will be availble to the user at all times and responsive on all devices.
 
-<!-- Insert Nav bar image -->
+![Navigation bar feature](documentation/features/navigation-menu.png)
 
 - Footer
+    - Contains links as icons to social media websites that will open in new tabs. The icons respond when hovered over on laptop screens and larger and also contain aria-labels to aid with accessibility for anyone visually impared who may be using a screen reader.
+    - The second part of the footer contains the phone, email and address of the business. The phone contact information has a link taking the user to their mobile devices numberpad, and the email contact information has a link taking the user to their mailing system on mobile, tablet or desktop devices.
 
-<!-- Insert Footer image -->
+![Footer feature](documentation/features/footer-content.png)
 
 - Favicon
 
