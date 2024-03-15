@@ -59,7 +59,12 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ### Landing Page
 
-<!-- Insert Landing Page image -->
+- Hero image
+    - On entering the Website, users will be greeted with a large hero image, giving the first impression of a serene and clean enviroment.
+    - A call-to-action button within the hero image is visable on all devices and will take users to the contact form on the 'Book Now!' page to get in contact with the staff at Woohoo Salon.
+    - Content below the hero image is visable on devices from mobile to desktop, immediately confirming the site as a nail salon.
+
+![Landing page feature](documentation/features/landing-page.png)
 
 ### Services Page
 

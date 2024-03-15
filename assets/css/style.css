@@ -134,11 +134,11 @@ main {
     border-radius: 5px;
 }
 
-button a {
+/* button a {
     color: #252525;
-}
+} */
 
-div button:hover {
+.hero-book-now input:hover {
     background-color: #ea6676;
     box-shadow: none;
 }
