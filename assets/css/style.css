@@ -295,10 +295,16 @@ li em {
     padding: 30px;
 }
 
-#booknow-form>h2,
-#booknow-form>h3 {
+#booknow-form>h2 {
     color: #252525;
     margin-bottom: 20px;
+}
+
+legend {
+    color: #252525;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .text-input {
