@@ -276,6 +276,7 @@ li em {
 /* Gallery Page */
 #photos img {
     width: 100%;
+    height: auto;
     border-radius: 10px;
 }
 
