@@ -66,11 +66,34 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ![Landing page feature](documentation/features/landing-page.png)
 
+- Nail care information
+    - Information about the benefits of nail care can be seen when users scroll on the webpage.
+    - This will entice users to get their nails done for other purposes than simply for style.
+
+- About the Woohoo Salon business
+    - Information about the business can be seen when users scroll on the webpage.
+    - This will further entice users to get their nails done at Woohoo Salon.
+
+- Testimonials
+    - Three sections of text can be seen, showing reviews from customers of the business.
+
+![Landing page feature testimonials](documentation/features/landing-page-testimonials.png)
+
 ### Services Page
 
-<!-- Insert Services Page image -->
+- Service page
+    - Clear and simple information about the services and the prices of each treatment.
+    - THe information is presented in a clear manner which allows the users to know exactly what service they would be getting.
+
+![Services page feature](documentation/features/services-page.png)
 
 ### Gallery Page
+
+- Gallery
+    - The gallery will provide users with photos of the finished treatments on real customers.
+    - This will allow users that are interested to see what talents the business have to offer and what kind of quality the user can expect.
+
+![Gallery page feature](documentation/features/gallery-page.png)
 
 ### Form Page
 
