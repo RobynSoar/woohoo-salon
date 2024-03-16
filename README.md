@@ -1,4 +1,5 @@
 # Woohoo Salon
+(by Robyn Soar)
 
 Woohoo Salon is a website aimed at the 16+ audience looking to have high quality nail services. This website allows users to gather insight into the nail salon business and the services they provide. With information about the salon itself, the services they provide with pricing, a gallery of previous finished services to convince the user to trust in the quality and professionalism of the Woohoo Salon business, and lastly a contact form to communicate with the staff at Woohoo Salon for any queries, including booking appointments. View the live site [here](https://robynsoar.github.io/woohoo-salon/) 
 
@@ -156,7 +157,7 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ### Wireframes
 
-Landing page
+__Landing page__
 
 - Desktop
 
@@ -168,7 +169,7 @@ Landing page
 
 ![Landing page Mobile Wireframe](documentation/wireframes/wireframes-mobile-landing-page.jpg)
 
-Services page
+__Services page__
 
 - Desktop
 
@@ -178,7 +179,7 @@ Services page
 
 ![Services page Mobile Wireframe](documentation/wireframes/wireframes-mobile-services-page.jpg)
 
-Gallery page
+__Gallery page__
 
 - Desktop
 
@@ -188,7 +189,7 @@ Gallery page
 
 ![Gallery page Mobile Wireframe](documentation/wireframes/wireframes-mobile-gallery-page.jpg)
 
-Form page
+__Form page__
 
 - Desktop
 
@@ -198,7 +199,7 @@ Form page
 
 ![Form page mobile wireframe](documentation/wireframes/wireframes-mobile-booknow-page.jpg)
 
-Successful form submission page
+__Successful form submission page__
 
 - Desktop
 
@@ -291,7 +292,7 @@ Testing was focused to ensure the following criteria were met:
 
 ### Lighthouse Testing
 
-Landing page
+__Landing page__
 
 - Desktop
 
@@ -301,7 +302,7 @@ Landing page
 
 ![Lighthouse - Landing Page Mobile](documentation/testing/lighthouse-landing-page-mobile.png)
 
-Services page
+__Services page__
 
 - Desktop
 
@@ -311,7 +312,7 @@ Services page
 
 ![Lighthouse - Services Page Mobile](documentation/testing/lighthouse-services-page-mobile.png)
 
-Gallery page
+__Gallery page__
 
 - Desktop
 
@@ -321,7 +322,7 @@ Gallery page
 
 ![Lighthouse - Gallery Page Mobile](documentation/testing/lighthouse-gallery-page-mobile.png)
 
-Form page
+__Form page__
 
 - Desktop
 
@@ -331,7 +332,7 @@ Form page
 
 ![Lighthouse - Booknow Page Mobile](documentation/testing/lighthouse-booknow-page-mobile.png)
 
-Successful form submission page
+__Successful form submission page__
 
 - Desktop
 
@@ -343,7 +344,7 @@ Successful form submission page
 
 ### Fuctional Testing
 
-Navigation Links
+__Navigation Links__
 
 Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
 
@@ -358,7 +359,7 @@ Testing was performed to ensure all navigation links on the respective pages, na
 
 Links on all pages navigated to the correct pages as exptected.
 
-Form Testing
+__Form Testing__
 
 The form on the home page was tested to ensure it functioned as expected when correct data was input and when incorrect data was input. The following test scenarios were covered:
 
@@ -463,13 +464,13 @@ Actual:
 
 Website behaved as expected, error message was displayed and the form did not submit.
 
-Footer Social Media Icons / Links
+__Footer Social Media Icons / Links__
 
 Testing was performed on the Font Awesome Social Media icons in the footer to ensure that each one opened in a new tab and that each one had a hover affect of the blush pink accent color.
 
 Each item opened a new tab when clicked as expected and correct hover colour was present.
 
-Footer Contact Information
+__Footer Contact Information__
 
 Testing was performed on the phone number in the contact information section of the footer to ensure behaviour was as expected.
 
