@@ -358,6 +358,16 @@ No bugs to report that haven't already been fixed. Continous testing in the futu
 
 ### Version Control
 
+The site was created using the GitPod Code editor and pushed to GitHUb to the remote repository 'woohoo-salon'
+
+The following git commands were used throughout development to push code to the remote repository:
+
+```git add <file>``` - This command was used to add the file(s) to the staging area before they are commited.
+
+```git commit -m "commit message"``` - This command was used to commit changes to the local repository queue ready to be pushed.
+
+```git push``` - This command was used to push all committed code to the remote repository 'woohoo-salon' on GitHub.
+
 <a name="table-of-contents">Return to Table of Contents</a>
 
 ## Credits
