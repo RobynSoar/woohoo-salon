@@ -153,7 +153,57 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ### Wireframes
 
-<!-- Insert Wireframe images/drawings -->
+Landing page
+
+- Desktop
+
+![Landing page Wireframe](documentation/wireframes/wireframe-landing-page.jpg)
+
+![Landing page Wireframe content](documentation/wireframes/wireframe-landing-page1.jpg)
+
+- Mobile
+
+![Landing page Mobile Wireframe](documentation/wireframes/wireframes-mobile-landing-page.jpg)
+
+Services page
+
+- Desktop
+
+![Services page Wireframe](documentation/wireframes/wireframe-services-page.jpg)
+
+- Mobile
+
+![Services page Mobile Wireframe](documentation/wireframes/wireframes-mobile-services-page.jpg)
+
+Gallery page
+
+- Desktop
+
+![Gallery page Wireframe](documentation/wireframes/wireframe-gallery-page.jpg)
+
+- Mobile
+
+![Gallery page Mobile Wireframe](documentation/wireframes/wireframes-mobile-gallery-page.jpg)
+
+Form page
+
+- Desktop
+
+![Form page Wireframe](documentation/wireframes/wireframe-booknow-page.jpg)
+
+- Mobile
+
+![Form page mobile wireframe](documentation/wireframes/wireframes-mobile-booknow-page.jpg)
+
+Successful form submission page
+
+- Desktop
+
+![Thank you page wireframe](documentation/wireframes/wireframe-thankyou-page.jpg)
+
+- Mobile
+
+![Thank you page Mobile Wireframe](documentation/wireframes/wireframes-mobile-thankyou-page.jpg)
 
 ### Technologies Used
 
