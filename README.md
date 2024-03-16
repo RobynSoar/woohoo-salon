@@ -17,6 +17,7 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
     - <a name="features-left-to-impliment">Features Left to Impliment</a>
 - <a name="design">Design</a>
     - <a name="wireframes">Wireframes</a>
+    - <a name="colour-palette">Colour Palette</a>
     - <a name="technologies-used">Technologies Used</a>
 - <a name="testing">Testing</a>
     - <a name="responsiveness">Responsiveness</a>
@@ -209,6 +210,18 @@ __Successful form submission page__
 
 ![Thank you page Mobile Wireframe](documentation/wireframes/wireframes-mobile-thankyou-page.jpg)
 
+### Colour Palette
+
+The following colour palette was used throughout the Website and provided clean contrast between elements:
+
+- #FEF6F6 - Light accent
+- #F2D7DA - Main background colour site wide
+- #E46877 - Main contrast accent for hover links
+- #3A3A3A - Dark accent
+- #252525 - Main logo/text/border colour site wide
+
+![Colour Palette](documentation/colour-palette.png)
+
 ### Technologies Used
 
 - HTML
@@ -246,6 +259,9 @@ __Successful form submission page__
 
 - [Google Fonts](https://fonts.google.com/)
     - Used to import fonts used throughout the Website.
+
+- [Coolors](https://coolors.co/)
+    - Colour palette swatches
 
 <a name="table-of-contents">Return to Table of Contents</a>
 
