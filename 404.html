@@ -22,10 +22,12 @@
 <body>
     <!-- Header -->
     <header>
+        <!-- Link within clickable logo, available site wide to take user back to home page from any other page -->
         <a href="index.html">
             <h1 id="logo">Woohoo Salon</h1>
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <!-- Hidden span for accessibilty with screen readers for dropdown menu -->
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i><span class="sr-only">Toggle
                 dropdown menu</span></label>
         <nav>
@@ -49,7 +51,8 @@
                     <p>Let's get you back on track!</p>
                     <div id="back-home">
                         <button type="button" class="back-home-button">
-                            <a href="index.html" aria-label="Return to homepage (Loads Woohoo Salon's homepage)">Back to Homepage</a>
+                            <a href="index.html" aria-label="Return to homepage (Loads Woohoo Salon's homepage)">Back to
+                                Homepage</a>
                         </button>
                     </div>
                 </div>
