@@ -425,6 +425,9 @@ The project will now of been cloned on your local machine for use.
 - [Icons8](https://icons8.com/)
     - Favicon image
 
+- [Google Maps](https://www.google.com/maps)
+    - Embeded Google Maps was created with code directly from Google Maps' embed tool.
+
 <a name="table-of-contents">Return to Table of Contents</a>
 
 ## Author
