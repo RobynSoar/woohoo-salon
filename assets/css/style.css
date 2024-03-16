@@ -45,6 +45,20 @@ header a {
     color: inherit;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #252525;
+}
+
 /* Hidden span for accessibilty with screen readers for dropdown menu */
 .sr-only {
     border: 0;
@@ -58,20 +72,6 @@ header a {
     position: absolute;
     width: 1px;
     white-space: nowrap;
-}
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 3px;
-    list-style-type: none;
-}
-
-#menu>li {
-    margin-bottom: 1em;
-}
-
-.active {
-    border-bottom: 1px solid #252525;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -119,13 +119,13 @@ main {
     justify-content: center;
 }
 
+/* Call-to-action */
 #hero-button {
     position: absolute;
     bottom: 50px;
 }
 
-.hero-book-now,
-.back-home-button {
+.hero-book-now {
     background-color: #f4d7da;
     color: #252525;
     font-size: 110%;
@@ -146,6 +146,14 @@ main {
 #about-salon h2 {
     padding: 20px 0 20px 0;
     font-size: 180%;
+}
+
+#about-salon h3 {
+    text-align: center;
+}
+
+#salon-reasons p {
+    padding-bottom: 20px;
 }
 
 #why-nail-care,
@@ -192,14 +200,6 @@ main {
     border-radius: 5px;
     padding: 10px 10px;
     margin-bottom: 20px;
-}
-
-#about-salon h3 {
-    text-align: center;
-}
-
-#salon-reasons p {
-    padding-bottom: 20px;
 }
 
 /* Services Page */
@@ -305,13 +305,6 @@ li em {
     margin-bottom: 20px;
 }
 
-legend {
-    color: #252525;
-    margin-bottom: 20px;
-    font-size: 24px;
-    font-weight: bold;
-}
-
 .text-input {
     color: #252525;
     background-color: transparent;
@@ -334,6 +327,13 @@ legend {
 
 fieldset {
     border: none;
+}
+
+legend {
+    color: #252525;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .send-button {
@@ -411,6 +411,17 @@ iframe {
 #contents p {
     text-align: center;
     padding-bottom: 20px;
+}
+
+.back-home-button {
+    background-color: #f4d7da;
+    color: #252525;
+    font-size: 110%;
+    font-weight: bold;
+    padding: 5px 20px;
+    box-shadow: 0 3px 3px #3a3a3a;
+    border: none;
+    border-radius: 5px;
 }
 
 /* Footer */
@@ -491,8 +502,8 @@ footer {
 
     /* Main Content */
 
+    /* Push main content down to accommodate larger heading */
     main {
-        /* Push main content down to accommodate larger heading */
         margin-top: 74px;
     }
 
