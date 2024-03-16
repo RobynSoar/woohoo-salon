@@ -131,10 +131,21 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ### Existing Features
 
-- Responsive and intuitive design
-- 
+- Responsive and intuitive design site wide
+- Call-to-action button directing to contact with business
+- Responsive gallery
+- Contact form and success page
+- 404 Error page with clear navigation back to site
 
 ### Features Left to Implement 
+
+- Add a reviews section for customers to leave their own feedback directly to the website.
+- Adapt the section for Testimonials to have alternating reviews from customers that automatically update when new reviews are submitted.
+- Ability for customers to sign-in to their own account with the salon, this will be useful to users to update their contact information.
+- Ability for staff members to sign-in to a business account with the salon, this will be useful to keep customer records and notes on the customers e.g. favourite polish colours, nail type, artificial nail tip sizes, relevant medical records, etc.
+- Ability for the business to easily alter the services they provide and prices.
+- Ability for the business to easily upload new images to the site.
+- Embed a tailor-made or external booking system into the site to automate and increase in-salon traffic, making booking an appointment easier for customers and staff.
 
 <a name="table-of-contents">Return to Table of Contents</a>
 
