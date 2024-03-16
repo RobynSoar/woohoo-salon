@@ -97,6 +97,18 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ### Form Page
 
+- Contact form
+    - The contact form allows user to contact the staff at the Woohoo Salon business. The form consists of the following fields and attributes.
+        - First name (type=text, required)
+        - Last name (type=text, required)
+        - Email address (type=email, required)
+        - Message (type=text, required)
+    - On successful submission of the contact form, the user will be navigated to thankyou.html displaying a successful message thanking the user.
+
+![Book Now page feature](documentation/features/book-now-page.png)
+
+![Thank you page feature](documentation/features/thankyou-page.png)
+
 ### Existing Features
 
 ### Features Left to Implement 

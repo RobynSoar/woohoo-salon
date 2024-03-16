@@ -369,8 +369,12 @@ fieldset {
     text-align: center;
 }
 
+#map {
+    text-align: center;
+}
+
 iframe {
-    width: 100vw;
+    width: 80vw;
     height: 300px;
 }
 
