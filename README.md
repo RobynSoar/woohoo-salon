@@ -321,10 +321,32 @@ Successful form submission page
 ### Validator Testing
 
 - HTML
-<!-- https://validator.w3.org/ -->
+    - No errors were returned when checking all HTML pages through the [W3C Validator](https://validator.w3.org/)
+
+ Landing Page
+
+ ![HTML Validator - Landing page](documentation/testing/html-validator-index-page.png)
+
+ Services Page
+
+ ![HTML Validator - Services page](documentation/testing/html-validator-services-page.png)
+
+ Gallery Page
+
+ ![HTML Validator - Gallery page](documentation/testing/html-validator-gallery-page.png)
+
+ Form Page
+
+ ![HTML Validator - Booknow page](documentation/testing/html-validator-booknow-page.png)
+
+ Successful form submission Page
+
+ ![HTML Validator - Thankyou page](documentation/testing/html-validator-thankyou-page.png)
 
 - CSS
-<!-- https://jigsaw.w3.org/css-validator/ -->
+    - No errors were returned when checking CSS through the [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+
+![CSS Validator](documentation/testing/css-validator-pass.png)
 
 <!-- ### Unfixed Bugs -->
 
