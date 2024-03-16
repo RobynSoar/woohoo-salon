@@ -343,6 +343,165 @@ Successful form submission page
 
 ### Fuctional Testing
 
+Navigation Links
+
+Testing was performed to ensure all navigation links on the respective pages, navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
+
+| Navigation Link | Page to Load    |
+| --------------- | --------------- |
+| Woohoo Logo     | index.html      |
+| Home            | index.html      |
+| Services        | services.html   |
+| Gallery         | gallery.html    |
+| Book Now!       | booknow.html    |
+| Book Now! (CTA) | booknow.html    |
+
+Links on all pages navigated to the correct pages as exptected.
+
+Form Testing
+
+The form on the home page was tested to ensure it functioned as expected when correct data was input and when incorrect data was input. The following test scenarios were covered:
+
+_Scenario One - Correct Inputs_
+
+Steps to test:
+
+1. Navigate to [Woohoo Salon - Booknow Page](https://robynsoar.github.io/woohoo-salon/booknow.html)
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+4. User should be redirected to thankyou.html confirmation page
+
+Expected:
+
+Form submits with no warnings or errors and user is redirected to thankyou.html confirmation page.
+
+Actual:
+
+Website behaved as expected with no errors or warnings and redirected to thankyou.html.
+
+_Scenario Two - Missing Required Field First Name_
+
+Steps to test:
+
+1. Navigate to [Woohoo Salon - Booknow Page](https://robynsoar.github.io/woohoo-salon/booknow.html)
+2. Scroll down to the form and input the following data:
+   - First Name:
+   - Last Name: Doe
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Three - Missing Required Field Last Name_
+
+Steps to test:
+
+1. Navigate to [Woohoo Salon - Booknow Page](https://robynsoar.github.io/woohoo-salon/booknow.html)
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name:
+   - Email: doe.jane@test.com
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Four - Missing Required Field Email_
+
+Steps to test:
+
+1. Navigate to [Woohoo Salon - Booknow Page](https://robynsoar.github.io/woohoo-salon/booknow.html)
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email:
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that the field is required.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+_Scenario Six - Incorrect email format_
+
+Steps to test:
+
+1. Navigate to [Woohoo Salon - Booknow Page](https://robynsoar.github.io/woohoo-salon/booknow.html)
+2. Scroll down to the form and input the following data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email: doe.janetest.com
+   - Comment: This is a test.
+3. Click Submit
+
+Expected:
+
+The form does not submit and an Error is displayed to tell the user that a valid email is required and the format it should be in.
+
+Actual:
+
+Website behaved as expected, error message was displayed and the form did not submit.
+
+Footer Social Media Icons / Links
+
+Testing was performed on the Font Awesome Social Media icons in the footer to ensure that each one opened in a new tab and that each one had a hover affect of the blush pink accent color.
+
+Each item opened a new tab when clicked as expected and correct hover colour was present.
+
+Footer Contact Information
+
+Testing was performed on the phone number in the contact information section of the footer to ensure behaviour was as expected.
+
+_Steps to test Telephone Number_
+
+1. Navigate to [Woohoo Salon - Home Page](https://robynsoar.github.io/woohoo-salon/index.html)
+2. Click the phone number in the footer (01255 317040)
+
+Expected:
+
+A window is opened asking which application you'd like to open in.
+
+Actual:
+
+Behavior was as expected and the window presented me with the following option:
+
+- Open in Skype (On desktop)
+- Opened mobile device numberpad with phone number input (On mobile device)
+
+_Steps to test Email Link_
+
+1. Navigate to [Woohoo Salon - Home Page](https://robynsoar.github.io/woohoo-salon/index.html)
+2. Click the email address in the footer (woohoosalon@beauty.co.uk)
+
+Expected:
+
+A windows popup is displayed asking what application you would like to send a mail from or your default email application is opened.
+
+Actual:
+
+Behavior was as expected and my GMail application was selected as default, opening the Gmail application showed the email address ready to send an email to the target address.
+
 ### Validator Testing
 
 - HTML
