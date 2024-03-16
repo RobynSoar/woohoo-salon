@@ -124,8 +124,10 @@ main {
     bottom: 50px;
 }
 
-.hero-book-now, .back-home-button {
+.hero-book-now,
+.back-home-button {
     background-color: #f4d7da;
+    color: #252525;
     font-size: 110%;
     font-weight: bold;
     padding: 5px 20px;
@@ -394,7 +396,7 @@ iframe {
 }
 
 /* 404 Page */
-#wrap > div {
+#wrap>div {
     display: flex;
     justify-content: center;
     align-items: center;
