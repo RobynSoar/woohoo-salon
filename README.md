@@ -7,33 +7,36 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 
 ## Table of Contents
 
-- <a name="features">Features</a>
-    - <a name="sitewide">Site Wide</a>
-    - <a name="landing-page">Landing Page</a>
-    - <a name="services-page">Services Page</a>
-    - <a name="gallery-page">Gallery Page</a>
-    - <a name="form-page">Form Page</a>
-    - <a name="existing-features">Existing Features</a>
-    - <a name="features-left-to-impliment">Features Left to Impliment</a>
-- <a name="design">Design</a>
-    - <a name="wireframes">Wireframes</a>
-    - <a name="colour-palette">Colour Palette</a>
-    - <a name="google-fonts">Google Fonts</a>
-    - <a name="technologies-used">Technologies Used</a>
-- <a name="testing">Testing</a>
-    - <a name="responsiveness">Responsiveness</a>
-    - <a name="accessibility">Accessibility</a>
-    - <a name="lighthouse-testing">Lighthouse Testing</a>
-    - <a name="functional-testing">Fuctional Testing</a>
-    - <a name="validator-testing">Validator Testing</a>
-- <a name="deployment">Deployment</a>
-    - <a name="version-control">Version Control</a>
-    - <a name="deployment-to-github-pages">Deployment to GitHub Pages</a>
-    - <a name="clone-the-repository Code Locally">Clone the Repository Code Locally</a>
-    -
-- <a name="credits">Credits</a>
-    - <a name="media">Media</a>
-- <a name="author">Author</a>
+- [Features](#features)
+    - [Site Wide](#sitewide)
+    - [Landing Page](#landing-page)
+    - [Services Page](#services-page)
+    - [Gallery Page](#gallery-page)
+    - [Form Page](#form-page)
+    - [Existing Features](#existing-features)
+    - [Features Left to Impliment](#features-left-to-impliment)
+- [Design](#design)
+    - [Wireframes](#wireframes)
+    - [Colour Palette](#colour-palette)
+    - [Google Fonts](#google-fonts)
+    - [Technologies Used](#technologies-used)
+- [Testing](#testing)
+    - [Responsiveness](#responsiveness)
+    - [Accessibility](#accessibility)
+    - [Lighthouse Testing](#lighthouse-testing)
+    - [Fuctional Testing](#functional-testing)
+    - [Validator Testing](#validator-testing)
+- [Deployment](#deployment)
+    - [Version Control](#version-control)
+    - [Deployment to GitHub Pages](#deployment-to-github-pages)
+    - [Clone the Repository Code Locally](#clone-the-repository-code-locally)
+- [Credits](#credits)
+    - [Inspired Code](#inspired-code)
+    - [Walkthrough Code](#walkthrough-code)
+    - [Used Code](#used-code)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
+- [Author](#author)
 
 ## Features
 
@@ -89,7 +92,7 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 - Service page
     - Clear and simple information about the services and the prices of each treatment.
-    - THe information is presented in a clear manner which allows the users to know exactly what service they would be getting.
+    - The information is presented in a clear manner which allows the users to know exactly what service they would be getting.
 
 ![Services page feature](documentation/features/services-page.png)
 
@@ -153,7 +156,7 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 - Ability for the business to easily upload new images to the site.
 - Embed a tailor-made or external booking system into the site to automate and increase in-salon traffic, making booking an appointment easier for customers and staff.
 
-<a name="table-of-contents">Return to Table of Contents</a>
+[Return to Table of Contents](#table-of-contents)
 
 ## Design
 
@@ -271,7 +274,7 @@ The following colour palette was used throughout the Website and provided clean 
 - [Coolors](https://coolors.co/)
     - Colour palette swatches
 
-<a name="table-of-contents">Return to Table of Contents</a>
+[Return to Table of Contents](#table-of-contents)
 
 ## Testing
 
@@ -599,9 +602,11 @@ Navigate to the GitHub Repository you want to clone to use locally:
 
 The project will now of been cloned on your local machine for use.
 
-<a name="table-of-contents">Return to Table of Contents</a>
+[Return to Table of Contents](#table-of-contents)
 
 ## Credits
+
+### Inspired Code
 
 - [Taco Travels - Gareth McGirr](https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md)
     - Woohoo Salon's README.md layout and contents was inspired by this README.
@@ -611,11 +616,15 @@ The project will now of been cloned on your local machine for use.
 - [Love Running - Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
     - Inpiration for sections of basic code.
 
+### Walkthrough Code
+
 - [Pee-Aye Creative](https://www.youtube.com/watch?v=NsUZZ7gHIuA)
-    - Divided navbar styling was created with inspiration from this video.
+    - Divided navbar styling was created with the walkthrough from this video.
 
 - [HTML Dog](https://www.htmldog.com/techniques/404/)
     - This walkthrough was used to aid in creation of the 404 Error page.
+
+### Used Code
 
 - [Medium - Web Accessibility Tip](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye)
     - Code used to fix lack of accessbility with screen readers on mobile devices that show the dropdown menu.
@@ -634,7 +643,13 @@ The project will now of been cloned on your local machine for use.
 - [Google Maps](https://www.google.com/maps)
     - Embeded Google Maps was created with code directly from Google Maps' embed tool.
 
-<a name="table-of-contents">Return to Table of Contents</a>
+### Acknowledgements
+
+A big thank you to my wonderful friends and classmates within the Code Institute Slack community, for always being there with great morale, guidance and great team spirit.
+
+Another Thank you to my wonderful mentor [Gareth McGirr](https://github.com/Gareth-McGirr), for being comfortable to talk with, knowledgable and providing priceless guidance throughout the project.
+
+[Return to Table of Contents](#table-of-contents)
 
 ## Author
 
