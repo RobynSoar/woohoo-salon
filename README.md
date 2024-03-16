@@ -107,6 +107,8 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ![Book Now page feature](documentation/features/book-now-page.png)
 
+![Book Now page feature details](documentation/features/book-now-page-details.png)
+
 ![Thank you page feature](documentation/features/thankyou-page.png)
 
 ### Existing Features
