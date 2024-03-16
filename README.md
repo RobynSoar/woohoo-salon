@@ -25,6 +25,9 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
     - <a name="validator-testing">Validator Testing</a>
 - <a name="deployment">Deployment</a>
     - <a name="version-control">Version Control</a>
+    - <a name="deployment-to-github-pages">Deployment to GitHub Pages</a>
+    - <a name="clone-the-repository Code Locally">Clone the Repository Code Locally</a>
+    -
 - <a name="credits">Credits</a>
     - <a name="media">Media</a>
 - <a name="author">Author</a>
@@ -367,6 +370,13 @@ The following git commands were used throughout development to push code to the 
 ```git commit -m "commit message"``` - This command was used to commit changes to the local repository queue ready to be pushed.
 
 ```git push``` - This command was used to push all committed code to the remote repository 'woohoo-salon' on GitHub.
+
+### Deployment to GitHub Pages
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+    1. In the GitHub repository, navigate to the Settings tab
+    2. From the menu called 'Code and automation' on the left, select Pages
+    3.
 
 <a name="table-of-contents">Return to Table of Contents</a>
 
