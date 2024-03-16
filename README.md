@@ -3,6 +3,17 @@
 
 Woohoo Salon is a website aimed at the 16+ audience looking to have high quality nail services. This website allows users to gather insight into the nail salon business and the services they provide. With information about the salon itself, the services they provide with pricing, a gallery of previous finished services to convince the user to trust in the quality and professionalism of the Woohoo Salon business, and lastly a contact form to communicate with the staff at Woohoo Salon for any queries, including booking appointments. View the live site [here](https://robynsoar.github.io/woohoo-salon/) 
 
+## Key Project Goals
+
+- A Website that leaves a positive first impression that lasts throughout the whole experience and journey through the site
+- To allow users to easily navigate the site without feeling lost
+- For lasting positive experience that brings returning users of the site
+- A Website that entices users to get their nails done at Woohoo Salon from the first visit
+
+## Target Audience
+
+- The primary target audience for the Website is 16+ audience looking for or return to a salon that gives high quality service and treatments
+
 ![Woohoo Salon website responsivity across a variety of devices](documentation/am-i-responsive.png)
 
 ## Table of Contents
