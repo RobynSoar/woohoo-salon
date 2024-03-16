@@ -115,8 +115,8 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
     - The business email address when clicked on will take the user to their devices mailing app, making it easier for the user to contact the business.
 
 - Map
-    - An interactive Google Maps is embedded under the address of the salon business.
-    - 
+    - A responsive and interactive Google Maps is embedded under the address of the salon business.
+    - This gives the user information on the business location, and enables quick access to Google Maps for ease in finding the route to the location.
 
 ![Book Now page feature details](documentation/features/book-now-page-details.png)
 
