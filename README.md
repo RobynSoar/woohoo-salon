@@ -252,6 +252,28 @@ Successful form submission page
 
 ### Responsiveness
 
+All pages were tested to ensure responsiveness on screen sizes from 280px (width) on Chrome.
+
+Steps to test:
+1. Open Chrome and navigate to [Woohoo Salon](https://robynsoar.github.io/woohoo-salon/)
+2. Open the Chrome DevTools (right click on webpage and click 'inspect')
+3. Set to 'responsive' and decrease width to 280px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+
+Website is responsive on all screen sizes and no images are pixelated or warped. No horizontal scroll is present. No elements overlap.
+
+Actual:
+
+Website behaved as expected.
+
+Website was also opened on the following devices and no responsive issues were seen:
+
+- Samsung S22 Ultra
+- Apple Ipad Pro
+
 ### Accessibility
 
 Throughout the developement of the site and for final testing of the deployed Website [Wave Accessibility](https://wave.webaim.org/) tool was used to test for any accessbility aid.
