@@ -18,6 +18,7 @@ Woohoo Salon is a website aimed at the 16+ audience looking to have high quality
 - <a name="design">Design</a>
     - <a name="wireframes">Wireframes</a>
     - <a name="colour-palette">Colour Palette</a>
+    - <a name="google-fonts">Google Fonts</a>
     - <a name="technologies-used">Technologies Used</a>
 - <a name="testing">Testing</a>
     - <a name="responsiveness">Responsiveness</a>
@@ -221,6 +222,13 @@ The following colour palette was used throughout the Website and provided clean 
 - #252525 - Main logo/text/border colour site wide
 
 ![Colour Palette](documentation/colour-palette.png)
+
+### Google Fonts
+
+[Google Fonts](https://fonts.google.com/) was used to import fonts for the Website, these include:
+
+- "Teko", sans-serif: Used for the Website logo
+- "Exo", sans-serif: Used for all other text content site wide
 
 ### Technologies Used
 
