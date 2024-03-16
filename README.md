@@ -107,11 +107,32 @@ The Website is made up of 6 pages, a Home page, Services page, Gallery page, Boo
 
 ![Book Now page feature](documentation/features/book-now-page.png)
 
+- Salon Hours
+    - Information of the business hours is clearly listed for new and frequent users of the site.
+
+- Contact details
+    - The business telephone number when clicked on will take the user to their mobile device numberpad, making it easier for the user to contact the business.
+    - The business email address when clicked on will take the user to their devices mailing app, making it easier for the user to contact the business.
+
+- Map
+    - An interactive Google Maps is embedded under the address of the salon business.
+    - 
+
 ![Book Now page feature details](documentation/features/book-now-page-details.png)
 
 ![Thank you page feature](documentation/features/thankyou-page.png)
 
+- 404 Error page
+    - A 404 Error page has been included incase there are any issues with bug or typos within the URL, causing the Website to not work as intended.
+    - This page will have minimal detail that carries over the style of the Website to indicate to the user that they haven't left the site.
+    - A clear 'Back to Homepage' button will navigate users to the landing page, giving them an easy way to get back onto the site and increasing the chances of the user staying on the site despite the error.
+
+![404 Error page feature](documentation/features/404-page-not-found.png)
+
 ### Existing Features
+
+- Responsive and intuitive design
+- 
 
 ### Features Left to Implement 
 
