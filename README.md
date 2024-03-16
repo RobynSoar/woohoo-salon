@@ -264,9 +264,57 @@ Testing was focused to ensure the following criteria were met:
 - WCAG 2.1 Coding best practices have been followed.
 - Manual tests performed to ensure the website was accessible via keyboard, no issues were found.
 
-<!-- https://wave.webaim.org/ -->
-
 ### Lighthouse Testing
+
+Landing page
+
+- Desktop
+
+![Lighthouse - Landing Page Desktop](documentation/testing/lighthouse-landing-page-desktop.png)
+
+- Mobile
+
+![Lighthouse - Landing Page Mobile](documentation/testing/lighthouse-landing-page-mobile.png)
+
+Services page
+
+- Desktop
+
+![Lighthouse - Services Page Desktop](documentation/testing/lighthouse-services-page-desktop.png)
+
+- Mobile
+
+![Lighthouse - Services Page Mobile](documentation/testing/lighthouse-services-page-mobile.png)
+
+Gallery page
+
+- Desktop
+
+![Lighthouse - Gallery Page Desktop](documentation/testing/lighthouse-gallery-page-desktop.png)
+
+- Mobile
+
+![Lighthouse - Gallery Page Mobile](documentation/testing/lighthouse-gallery-page-mobile.png)
+
+Form page
+
+- Desktop
+
+![Lighthouse - Booknow Page Desktop](documentation/testing/lighthouse-booknow-page-desktop.png)
+
+- Mobile
+
+![Lighthouse - Booknow Page Mobile](documentation/testing/lighthouse-booknow-page-mobile.png)
+
+Successful form submission page
+
+- Desktop
+
+![Lighthouse - Thankyou Page Desktop](documentation/testing/lighthouse-thankyou-page-desktop.png)
+
+- Mobile
+
+![Lighthouse - Thankyou Page Mobile](documentation/testing/lighthouse-thankyou-page-mobile.png)
 
 ### Fuctional Testing
 
