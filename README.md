@@ -348,7 +348,9 @@ Successful form submission page
 
 ![CSS Validator](documentation/testing/css-validator-pass.png)
 
-<!-- ### Unfixed Bugs -->
+### Unfixed Bugs
+
+No bugs to report that haven't already been fixed. Continous testing in the future will be carried out.
 
 <a name="table-of-contents">Return to Table of Contents</a>
 
