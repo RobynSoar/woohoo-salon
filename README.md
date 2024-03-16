@@ -361,7 +361,7 @@ No bugs to report that haven't already been fixed. Continous testing in the futu
 
 ### Version Control
 
-The site was created using the GitPod Code editor and pushed to GitHUb to the remote repository 'woohoo-salon'
+The site was created using the Git editor and pushed to GitHUb to the remote repository 'woohoo-salon'
 
 The following git commands were used throughout development to push code to the remote repository:
 
@@ -374,9 +374,24 @@ The following git commands were used throughout development to push code to the 
 ### Deployment to GitHub Pages
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
-    1. In the GitHub repository, navigate to the Settings tab
-    2. From the menu called 'Code and automation' on the left, select Pages
-    3.
+1. In the GitHub repository, navigate to the 'Settings' tab
+2. From the menu called 'Code and automation' on the left, select 'Pages'
+3. From the Default branch drop down menu, select 'Main'
+4. Click 'Save'
+5. A live link will be displayed in a green banner when published succesfully.
+
+The live link to 'woohoo-salon' can be found here - [Woohoo Salon Live](https://robynsoar.github.io/woohoo-salon/)
+
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+1. Click on the code drop down button
+2. Click on HTTPS
+3. Copy the repository link to the clipboard
+4. Open your IDE of choice (Git must be installed for the next steps)
+5. Type git close copied-git-url into the IDE terminal
+
+The project will now of been cloned on your local machine for use.
 
 <a name="table-of-contents">Return to Table of Contents</a>
 
